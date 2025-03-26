@@ -38,7 +38,7 @@ A scalable enterprise platform for managing drone surveys, missions, and organiz
 
 1. **Prerequisites**
    ```bash
-   - Node.js >= 14.0.0
+   - Node.js >= 20.0.0
    - MongoDB
    ```
 
